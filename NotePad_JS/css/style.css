@@ -1,0 +1,29 @@
+
+nav {
+    box-sizing: border-box;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    background-color: aqua;
+}
+nav ul {
+    display: grid;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    grid-template-columns: 150px 150px 150px;
+    gap: 10px;
+}
+nav ul li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+nav ul li select {
+    width: 100%;
+}
+article {
+    border: 2px solid black;
+    border-top-color: teal;
+    min-height: 12em;
+    background-color: #4d503e;
+}
