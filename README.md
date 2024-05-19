@@ -17,13 +17,13 @@ Tow small projects that is such a practicing during learning JS.
 ## Introduction
 
 This project demonstrats some JS futures.
-<br>
-First project.
-<br>
+
+#### First project.
+
 a page that have atow input fields, one for adding text as a badge and, other for removing it.
-<br>
-Second project.
-<br>
+
+#### Second project.
+
 a note project that store the typed text in the browser storage.
 
 **I added a small file in the root dirctory to refer to every project.**
@@ -33,11 +33,9 @@ a note project that store the typed text in the browser storage.
 ## Usage
 
 **You can interact with the project via this link**
-[web page on github](https://ahmedsobhyhamed.github.io/HTML_CSS_PROJECTS/).
+[web page on github](https://ahmedsobhyhamed.github.io/JS_PROJECTS/).
 <br>
 **[see an example for user interaction.[video]](http://youtube.com)**
-<br>
-**[demonstration video for developer communit](https://www.youtube.com/watch?v=QrMDQQKTNyU)**
 
 ## Technologies Used
 
