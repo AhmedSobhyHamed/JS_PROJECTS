@@ -1,6 +1,6 @@
 # HTML_CSS_PROJECTS
 
-Tow small projects that is such a practicing during learning JS.
+Three small projects that is such a practicing during learning JS.
 ![](repo-image/name.png)
 
 ## Table of Contents
@@ -25,6 +25,10 @@ a page that have atow input fields, one for adding text as a badge and, other fo
 #### Second project.
 
 a note project that store the typed text in the browser storage.
+
+#### Third project.
+
+rendering grid with only Js using DOM web API to create and style elements.
 
 **I added a small file in the root dirctory to refer to every project.**
 
@@ -56,6 +60,11 @@ a note project that store the typed text in the browser storage.
 - NotePad project:
 
   - css (css/style.css)
+  - js (js/script.js)
+  - index.html
+
+- GridPanal project:
+
   - js (js/script.js)
   - index.html
 
